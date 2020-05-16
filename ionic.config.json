@@ -1,0 +1,7 @@
+{
+  "name": "ionic-menu-test",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
